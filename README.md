@@ -9,6 +9,7 @@
  <h3 align="left">⚡ My Skills :</h3>
 --------------------------------
 <h3 align="left">Concepts :</h3>
+
 - Data Analysis
 
 - Data Warehouse
@@ -17,13 +18,11 @@
 
 - Web Scraping (Selenium and BeautifulSoup )
 
-- Machine Learning
 
 - Statistics
  
-- AB Testing
 
-- Cloud Computing (Microsoft Azure and IBM Cloud)
+- Cloud Computing (Microsoft Azure)
 
 - Exploratory Data
 
