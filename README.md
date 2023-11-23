@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ziad Moawad</h1>
-<h3 align="center">Highly motivated and detail-oriented junior data analyst with a strong foundation in data analysis and visualization. Seeking a challenging role to leverage my analytical skills and contribute to data-driven decision-making processes in a dynamic organization and have strong knowledge about (SSRS, SSAS, SSIS)</h3>
+<h3 align="center">Seeking an opportunity to work in a friendly and fast-growing environment where I can use my experience in creating interactive visual reports using BI tools. Also experienced in SQL database and Python which gives me more flexibility in analyzing and maniulating any data</h3>
 
 
 - 🌱 I’m currently learning *Data analyst || BI developer*
