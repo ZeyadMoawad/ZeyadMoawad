@@ -2,7 +2,7 @@
 <h3 align="center">Highly motivated and detail-oriented junior data analyst with a strong foundation in data analysis and visualization. Seeking a challenging role to leverage my analytical skills and contribute to data-driven decision-making processes in a dynamic organization and have strong knowledge about (SSRS, SSAS, SSIS)</h3>
 
 
-- 🌱 I’m currently learning **Data analyst || BI developer*
+- 🌱 I’m currently learning *Data analyst || BI developer*
 
 - 👀 I’m interested in **Data Analysis ,  Business Intelligence**
 
