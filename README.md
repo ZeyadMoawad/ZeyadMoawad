@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ziad Moawad</h1>
-<h3 align="center">Highly motivated and detail-oriented junior data analyst with a strong foundation in data analysis and visualization. Seeking a challenging role to leverage my analytical skills and contribute to data-driven decision-making processes in a dynamic organization and have strong knowledge about (SSRS, SSAS, and SSIS)</h3>
+<h3 align="center">Highly motivated and detail-oriented junior data analyst with a strong foundation in data analysis and visualization. Seeking a challenging role to leverage my analytical skills and contribute to data-driven decision-making processes in a dynamic organization and have strong knowledge about (SSRS, SSAS, SSIS)</h3>
 
-- 🔭 I’m currentl **y working on**
 
 - 🌱 I’m currently learning **Data analyst || BI developer*
 
@@ -33,16 +32,28 @@
 - Python
 - Java
 <h3 align="left">Databases :</h3> 
+
 - Microsoft SQL Server
+  
 - T-SQL
+  
 <h3 align="left">Business intelligence and ETL tools :</h3> 
+
 - BI Tools (SSIS, SSAS, SSRS)
+
 - DAX
+  
 - Power Query
+  
 - Power Pivot
 <h3 align="left"> Reporting and Visualization Tools:</h3> 
+
 - Microsoft Excel
+
 - Microsoft Power BI
+  
 - Tableau
+  
 <h3 align="left">  Personal skills :</h3>
+
 - Analytical skills, Presentation skills, Problem-solving, Research, Teamwork, Adaptability , Decision Making , Communication Skills, Reliable Interpersonal Skills .)
