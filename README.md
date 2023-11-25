@@ -28,16 +28,16 @@
 - Exploratory Data
 
 - Project Management
-  <h3 align="left">Programming Languages :</h3>
+  <h1 align="left">Programming Languages :</h1>
 - Python
 - Java
-<h3 align="left">Databases :</h3> 
+<h1 align="left">Databases :</h1> 
 
 - Microsoft SQL Server
   
 - T-SQL
   
-<h3 align="left">Business intelligence and ETL tools :</h3> 
+<h1 align="left">Business intelligence and ETL tools :</h1> 
 
 - BI Tools (SSIS, SSAS, SSRS)
 
@@ -46,7 +46,7 @@
 - Power Query
   
 - Power Pivot
-<h3 align="left"> Reporting and Visualization Tools:</h3> 
+<h1 align="left"> Reporting and Visualization Tools:</h1> 
 
 - Microsoft Excel
 
@@ -54,6 +54,6 @@
   
 - Tableau
   
-<h3 align="left">  Personal skills :</h3>
+<h1 align="left">  Personal skills :</h1>
 
 - Analytical skills, Presentation skills, Problem-solving, Research, Teamwork, Adaptability , Decision Making , Communication Skills, Reliable Interpersonal Skills .)
