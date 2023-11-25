@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ziad Moawad</h1>
+<h1 align="left">Profile</h1>
 <h3 align="center">Seeking an opportunity to work in a friendly and fast-growing environment where I can use my experience in creating interactive visual reports using BI tools. Also experienced in SQL database and Python which gives me more flexibility in analyzing and maniulating any data</h3>
 
 
