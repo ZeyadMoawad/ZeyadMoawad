@@ -7,8 +7,8 @@
 
 - 👀 I’m interested in **Data Analysis ,  Business Intelligence**
 
- <h3 align="left">⚡ My Skills :</h3>
-_____________________________________________________________________________________________________________________________________________________
+ <h1 align="left">⚡ My Skills :</h1>
+ 
 <h3 align="left">Concepts :</h3>
 
 - Data Analysis
