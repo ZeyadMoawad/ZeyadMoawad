@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ziad Moawad</h1>
 <h1 align="left">Profile</h1>
-<h3 align="center">An ambitious and dedicated Bl developer, I am driven by a deep curiosity for data-driven insights and possess a strong foundation in SQL, data visualization, and ETL processes. skilled in SSRS Reports and SSAS Analysis Cubes. My background in data visualization help me in analyzing the data in a better way and making sense of complicated data. and I have a good experience in Pharmaceutical Industry.</h3>
+<h3 align="center">An ambitious and dedicated Bl developer, I am driven by a deep curiosity for data-driven insights and possess a strong foundation in SQL, data visualization, and ETL processes. skilled in SSRS Reports and SSAS Analysis Cubes. My background in data visualization help me in analyzing the data in a better way and making sense of complicated data.</h3>
 
 
 - 🌱 I’m currently learning *Data analyst || BI developer*
